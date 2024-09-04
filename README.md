@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/-@Gabriel-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-magalh%C3%A3es-de-souza/" alt="LinkedIn Badge">
 </a>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Gif animado" width="250"/>
-
 <h2>🚀 Algumas ferramentas que utilizo</h2>
 
 <p align="left">
@@ -23,4 +21,7 @@
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" width="80" height="30" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Maga&show_icons=true&theme=radical" alt="Gabriel-Maga GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Maga&show_icons=true&theme=radical" alt="Gabriel-Maga GitHub Stats" />
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Gif animado" width="300"/>
+</div>
