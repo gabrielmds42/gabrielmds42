@@ -22,6 +22,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Maga&show_icons=true&theme=radical" alt="Gabriel-Maga GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmds42&show_icons=true&theme=radical" alt="gabrielmds42 GitHub Stats" />
   <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Gif animado" width="300"/>
 </div>
