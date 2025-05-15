@@ -1,6 +1,6 @@
 <h2>Olá 👋, eu sou o <a href="https://www.linkedin.com/in/gabriel-magalh%C3%A3es-de-souza/">Gabriel</a></h2>
 
-<p>Atualmente, sou Analista de Informações Gerenciais no Grupo SEB e estou cursando a Pós-Graduação em Engenharia de Dados na PUC Minas.</p>
+<p>Atualmente, sou Analista de Informações Gerenciais no Grupo SEB e Pós-Graduado em Engenharia de Dados na PUC Minas.</p>
 
 <a href="https://www.linkedin.com/in/gabriel-magalh%C3%A3es-de-souza/">
   <img src="https://img.shields.io/badge/-@Gabriel-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-magalh%C3%A3es-de-souza/" alt="LinkedIn Badge">
